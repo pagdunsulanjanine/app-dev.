@@ -14,5 +14,5 @@ My first repository.
 - Darcy’s First Proposal ( The rain-soaked confrontation—raw emotions and misunderstandings.)
 - Sunrise Finale ( Darcy’s heartfelt confession at dawn.)
 [Pride and Prejudice] (https://www.imdb.com/title/tt0414387/)
-![Pride and Prejudice Movie Poster] (https://www.themoviedb.org/movie/4348-pride-prejudice/images/posters)
+![Pride and Prejudice Movie Poster](https://www.themoviedb.org/movie/4348-pride-prejudice/images/posters)
 
